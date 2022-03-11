@@ -6,6 +6,7 @@
 
 
 **Repos**
+
 [![how-to-learn](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=how-to-learn)](https://github.com/NatashaSnezhkina/how-to-learn) [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=russian-travel)](https://github.com/NatashaSnezhkina/russian-travel)
 
 [![mesto](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=mesto)](https://github.com/NatashaSnezhkina/mesto) [![mesto-react](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=mesto-react)](https://github.com/NatashaSnezhkina/mesto-react)
