@@ -10,7 +10,7 @@ GitHub: NatashaSnezhkina
 ✍🏻 I want to write clean, structured code  
 🧠 I want to invent logic  
 💻 I want to create user-friendly interfaces  
-🔧 I want to learn new frameworks
+🔧 I want to learn new frameworks  
 👨‍🏫 I want to learn from more experienced colleagues  
 
 **Statistics**  
