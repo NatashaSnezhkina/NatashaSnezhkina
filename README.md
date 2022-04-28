@@ -17,6 +17,7 @@ GitHub: NatashaSnezhkina
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaSnezhkina&layout=compact)
 
 **Repositories**  
+[![mesto-react](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=mesto-react)](https://github.com/NatashaSnezhkina/mesto-react)  
 [![mesto](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=mesto)](https://github.com/NatashaSnezhkina/mesto)  
 [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=russian-travel)](https://github.com/NatashaSnezhkina/russian-travel)   
 [![how-to-learn](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=how-to-learn)](https://github.com/NatashaSnezhkina/how-to-learn)      
