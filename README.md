@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=000000&multiline=true&height=100&lines=Hi!+I'm+Natasha+%F0%9F%91%8B+;I'm+junior+front-end+developer)](https://git.io/typing-svg)
 
 Mail: nata.snezhkina@gmail.com  
-tel.: +374 41 551715  
+tel.: +46 70 442 32 85 
 Telegram: @natasha.snezhkina  
 LinkedIn: in/natalia-snezhkina/  
 GitHub: NatashaSnezhkina  
