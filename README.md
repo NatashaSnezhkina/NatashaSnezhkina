@@ -17,7 +17,7 @@ GitHub: NatashaSnezhkina
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaSnezhkina&layout=compact)
 
 **Repositories**  
-[![movies-explorer-frontend](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=moves-explorer-frontend)](https://github.com/NatashaSnezhkina/movies-explorer-frontend)  
+[![movies-explorer-frontend](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=movies-explorer-frontend)](https://github.com/NatashaSnezhkina/movies-explorer-frontend)  
 [![react-mesto-api-full](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=react-mesto-api-full)](https://github.com/NatashaSnezhkina/react-mesto-api-full)  
 [![mesto](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=mesto)](https://github.com/NatashaSnezhkina/mesto)  
 [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?height=100&username=NatashaSnezhkina&repo=russian-travel)](https://github.com/NatashaSnezhkina/russian-travel)   
