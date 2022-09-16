@@ -2,7 +2,7 @@
 
 Mail: nata.snezhkina@gmail.com   
 tel.: +46 70 442 32 85   
-Telegram: @natasha.snezhkina  
+Telegram: @natashasnezhinka  
 LinkedIn: in/natalia-snezhkina/  
 GitHub: NatashaSnezhkina  
 
